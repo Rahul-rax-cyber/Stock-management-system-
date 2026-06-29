@@ -1,0 +1,6 @@
+{
+  "name": "Stock & Cash Ledger",
+  "description": "A daily shop management dashboard to track stock levels, sales count, cash flow, and expenses with historical logs and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
